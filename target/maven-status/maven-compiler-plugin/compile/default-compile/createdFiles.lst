@@ -1,0 +1,7 @@
+com\mycompany\weatherapp\GetIpAddress.class
+com\mycompany\weatherapp\FavoritePlacesChoose.class
+com\mycompany\weatherapp\DatabaseOperations.class
+com\mycompany\weatherapp\GetWeatherForecast.class
+com\mycompany\weatherapp\LoginForm.class
+com\mycompany\weatherapp\SignupForm.class
+com\mycompany\weatherapp\WeatherApp.class
