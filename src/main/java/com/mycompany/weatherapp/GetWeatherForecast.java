@@ -13,7 +13,7 @@ import org.json.JSONObject;
 
 public class GetWeatherForecast {
 
-    private static final String API_KEY = "cd695db286814784943101748241405";
+    private static final String API_KEY = "YOUR_API_KEY";
     private static JSONObject weatherData;
 
     
